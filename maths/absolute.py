@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Absolute_value
 
 
 def absolute(number):
-    """Return the absolute value of the argument.
+    """Return the absolute number of the argument.
     >>> absolute(-3.14) == abs(-3.14) and absolute(3.14) == abs(3.14)
     True
     >>> absolute(0) == abs(0)
